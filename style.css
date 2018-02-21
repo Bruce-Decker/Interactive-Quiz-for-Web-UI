@@ -1,0 +1,36 @@
+.userName {
+
+	 clear:left;
+  height:25px;
+  margin-top:20px;
+  margin-right:20px;
+  margin-bottom:20px;
+}
+
+.button {
+	margin-top:20px;
+}
+
+input[type="radio"]{
+	height:25px;
+  margin-top:20px;
+  margin-right:20px;
+  margin-left:20px;
+  margin-bottom:20px;
+}
+
+input[type="submit"]{
+  
+ 
+  
+}
+.comment {
+
+width: 700px;
+height: 200px;
+	overflow: scroll;
+}
+
+.room_number {
+	margin-left:50px;
+}
